@@ -1,0 +1,3 @@
+Coin Blob: NjY4NzQwMDUz
+Hash: 00000000d5e6cb1d9a9b23e1334517a3c98af9a90019c6f6efc4b7c2d207f994
+Success!
